@@ -1,4 +1,4 @@
-# AWS RDS for Node.js Interview Questions and Answers
+# AWS RDS for  Interview Questions and Answers
 
 ## Basic AWS RDS Concepts
 
