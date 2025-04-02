@@ -1,5 +1,3 @@
-# aws-interview-questions
-
 # The Complete Guide to Amazon DynamoDB
 
 ## Table of Contents
